@@ -11,7 +11,8 @@ Rest assured, CSX3 doesnt need data to function. At the moment, CSX3 is a non-pr
 
 # Where can i get it? 🌐
 
-Currently, CSX3's only public version is "CSX3 Browser dependent", but an app version for Windows & Mac is in development. The link is csx3-beta.netlify.app
+Currently, CSX3's only public version is "CSX3 Browser dependent", but an app version for Windows & Mac is in development. The link is 
+csx3-beta.netlify.app
 
 # Is there a community space? 🤝
 
