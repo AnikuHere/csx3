@@ -1,3 +1,18 @@
+# ANNOUNCMENT! ‼️
+
+ "CSX3 is getting discontinued?!" you may say.
+
+
+ Well... yes 😨 But only temporarily.
+ Development will probably resume somewhere about the start of 2026. Please wait patiently.
+
+  For now, you can just contribute to the project and we will think about updating it. (We probably will, in December.)
+
+   Cya until then! 👋 
+
+
+
+
 # Welcome to CSX3 ⚡
 Web-based programming app for rookie programmers, with AI-helpers, Visual programming, and aesthetic pleasing features like Music, and themes. 
 
