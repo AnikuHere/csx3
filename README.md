@@ -5,7 +5,7 @@
 
  Well... yes 😨 But only temporarily.
  Development will probably resume somewhere about the start of 2026. Please wait patiently.
-
+ On top of that, development teams are transferring so..
   For now, you can just contribute to the project and we will think about updating it. (We probably will, in December.)
 
    Cya until then! 👋 
@@ -30,7 +30,7 @@ Currently, CSX3's only public version is "CSX3 Browser dependent", but an app ve
 
 # Is there a community space? 🤝
 
-Absolutely! You can join our Discord server where you can get the latest updates! Join [here](https://discord.com/invite/dhpGeeeQ23)
+Sorry, but currently its under renovation.
 
 # What are the supported programming languages? 📗
 
@@ -38,7 +38,7 @@ The supported languages are: Javascript, LUA, Python, C#,  C++, CSS, HTML, Markd
 
 # Who is the developer? 👩‍💻
 
-The owner is Raven (fka XFydro), the person behind the Pointware Team (Owner of this project). You can check her personal profile [here](https://x3documentation.neocities.org/developer)
+The owner is DeniusG (me!), the person behind the Velarium Team (Owner of this project).
 
 
 
@@ -46,8 +46,7 @@ The owner is Raven (fka XFydro), the person behind the Pointware Team (Owner of 
 
 
 
-
-As for me, hi! 👋 Im Aniku, the developer of this project. (fka DeniusG). You can find me on Discord with the username "deniusthepillowhead". I can confidently say that im a programmer lol. Im also the founder & owner of a dev team called Velarium, which while is focused more on game development, is technically the dev team behind CSX3 i guess. Sorry if the updates take a while, im a dumbass who cant do anything right anyway so updates are delayed most of the time :p (I hate myself aaaaaa)
+ hi! 👋 Im Aniku, the developer of this project. (fka DeniusG). You can find me on Discord with the username "deniusthepillowhead". I can confidently say that im a programmer lol. Im also the founder & owner of a dev team called Velarium, which while is focused more on game development, is technically the dev team behind CSX3 i guess. Sorry if the updates take a while, im a dumbass who cant do anything right anyway so updates are delayed most of the time :p (I hate myself aaaaaa)
 
 
 # Remember, the app is in beta, so bugs/glitches may occur.
