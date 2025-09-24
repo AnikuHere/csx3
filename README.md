@@ -1,19 +1,16 @@
-# ANNOUNCMENT! ‼️
+# announcment...
 
- "CSX3 is getting discontinued?!" you may say.
+ CSX3 will no longer be in active development and now completely relies on community support. The reason is that i (DeniusG) have lost CSX3 files and since the version i published on the site was corrupted and had manyyy bugs, the team decided to discontinue it. We are now actively developing CSX4 instead, the new CSX. 
 
+  I have been working on this since 2023, back when it was still called EclipseCode. Thats pratically 3 years of progress lost...
+  This is the only remaining verison of CSX3 i could find. There was nothing else. Thanks for stickin around.. 
 
- Well... yes 😨 But only temporarily.
- Development will probably resume somewhere about the start of 2026. Please wait patiently.
- On top of that, development teams are transferring so..
-  For now, you can just contribute to the project and we will think about updating it. (We probably will, in December.)
-
-   Cya until then! 👋 
+   (Youll soon be able to enter GitCSX3 on CSX4)
 
 
 
 
-# Welcome to CSX3 ⚡
+# Welcome to (Git)CSX3 ⚡
 Web-based programming app for rookie programmers, with AI-helpers, Visual programming, and aesthetic pleasing features like Music, and themes. 
 
 # What makes it so special? 🤔
@@ -26,7 +23,7 @@ Rest assured, CSX3 doesnt need data to function. At the moment, CSX3 is a non-pr
 
 # Where can i get it? 🌐
 
-Currently, CSX3's only public version is "CSX3 Browser dependent", but an app version for Windows & Mac is in development. Click [here](https://csx3-beta.netlify.app/)
+ CSX3's only public version was "CSX3 Browser dependent", but sadly, the website is currently corrupted and we have started working on CSX4
 
 # Is there a community space? 🤝
 
@@ -38,7 +35,7 @@ The supported languages are: Javascript, LUA, Python, C#,  C++, CSS, HTML, Markd
 
 # Who is the developer? 👩‍💻
 
-The owner is DeniusG (me!), the person behind the Velarium Team (Owner of this project).
+The owner is Raven and Me (DeniusG). I'm the founder of UQ and Raven is the owner of Pointware Studios
 
 
 
