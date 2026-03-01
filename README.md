@@ -35,7 +35,7 @@ The supported languages are: Javascript, LUA, Python, C#,  C++, CSS, HTML, Markd
 
 # Who is the developer? 👩‍💻
 
-The owner is Raven and Me (DeniusG). I'm the founder of UQ and Raven is the owner of Pointware Studios
+The owner is Raven and Me (DeniusG). I'm the founder of AmeBits and Raven is the owner of Pointware Studios
 
 
 
@@ -43,5 +43,5 @@ The owner is Raven and Me (DeniusG). I'm the founder of UQ and Raven is the owne
 
 
 
- hi! 👋 Im Aniku, the developer of this project. (fka DeniusG). You can find me on Discord with the username "deniusthepillowhead". I can confidently say that im a programmer lol. Im also the founder & owner of a dev team called UQ, which while is focused more on game development, is technically the dev team behind CSX3 i guess. Sorry if the updates take a while, im a dumbass who cant do anything right anyway so updates are delayed most of the time :p (I hate myself aaaaaa)
+ hi! 👋 Im Aniku, the developer of this project. (fka DeniusG). You can find me on Discord with the username "deniusthepillowhead". I can confidently say that im a programmer lol. Im also the founder & owner of a dev team called AmeBits, which is the dev team behind CSX3 i guess. Sorry if the updates take a while, im a dumbass who cant do anything right anyway so updates are delayed most of the time :p (I hate myself aaaaaa)
 
