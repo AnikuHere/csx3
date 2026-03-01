@@ -10,7 +10,7 @@
     <meta name="theme-color" content="#007acc" />
     <title>CSX3</title>
     <style>
-      /* Prevent zoom on input focus for iOS */
+      
       @media screen and (-webkit-min-device-pixel-ratio: 0) {
         select, textarea, input[type="text"], input[type="password"], 
         input[type="datetime"], input[type="datetime-local"], 
@@ -22,27 +22,27 @@
         }
       }
       
-      /* Prevent pull-to-refresh on mobile */
+    
       body {
         overscroll-behavior: none;
         -webkit-overflow-scrolling: touch;
         touch-action: manipulation;
       }
       
-      /* Hide scrollbars on mobile while keeping functionality */
+     
       ::-webkit-scrollbar {
         width: 0px;
         background: transparent;
       }
       
-      /* Ensure full height on mobile */
+     
       html, body, #root {
         height: 100vh;
         height: -webkit-fill-available;
         overflow: hidden;
       }
       
-      /* Mobile-specific optimizations */
+    
       @media (max-width: 768px) {
         * {
           -webkit-tap-highlight-color: transparent;
@@ -64,6 +64,6 @@
   </head>
   <body>
     <div id="root"></div>
-    <script type="module" src="/src/main.tsx"></script>
+    <script type="module" src="/src/MainMenu.tsx"></script>
   </body>
 </html>
